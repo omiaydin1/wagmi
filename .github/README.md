@@ -273,3 +273,9 @@ If you find Wagmi useful or use it for work, please consider [sponsoring Wagmi](
   <img src="https://raw.githubusercontent.com/wevm/.github/refs/heads/main/content/quicknode-badge.svg" alt="Powered by QuickNode" height="35">
 </a>
 
+## Base Network Integration
+
+wagmi can be configured to support applications running on the Base network.
+This allows developers to build and test React-based web3 interfaces
+with Base as the underlying execution layer.
+
